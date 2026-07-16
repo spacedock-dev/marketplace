@@ -25,6 +25,17 @@
       "description": "Turn directories of markdown files into structured workflows operated by AI agents (edge channel \u2014 tracks next HEAD)",
       "version": "0.0.2026062001",
       "category": "workflow"
+    },
+    {
+      "name": "subspace",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/spacedock-dev/subspace-beta.git",
+        "ref": "v0.8.0-beta.5"
+      },
+      "description": "Review one Markdown file in Subspace and return its neutral invocation-bound result.",
+      "version": "0.8.0-beta.5",
+      "category": "workflow"
     }
   ]
 }
