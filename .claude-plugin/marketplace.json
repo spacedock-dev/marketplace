@@ -31,10 +31,10 @@
       "source": {
         "source": "url",
         "url": "https://github.com/spacedock-dev/subspace-beta.git",
-        "ref": "v0.9.0"
+        "ref": "v0.10.0-beta.1"
       },
       "description": "Review one Markdown file in Subspace and return its neutral invocation-bound result.",
-      "version": "0.9.0",
+      "version": "0.10.0-beta.1",
       "category": "workflow"
     }
   ]
