@@ -9,9 +9,9 @@
       "source": {
         "source": "url",
         "url": "https://github.com/spacedock-dev/spacedock.git",
-        "ref": "next"
+        "ref": "main"
       },
-      "description": "Turn directories of markdown files into structured workflows operated by AI agents (edge channel — tracks next HEAD)",
+      "description": "Turn directories of markdown files into structured workflows operated by AI agents (edge channel — tracks main HEAD)",
       "version": "0.0.2026062001",
       "category": "workflow"
     }
