@@ -20,10 +20,10 @@
       "source": {
         "source": "url",
         "url": "https://github.com/spacedock-dev/subspace.git",
-        "ref": "v0.14.0"
+        "ref": "v0.14.1"
       },
       "description": "Review one Markdown file in Subspace and return its neutral invocation-bound result.",
-      "version": "0.14.0",
+      "version": "0.14.1",
       "category": "workflow"
     },
     {
@@ -34,7 +34,7 @@
         "path": "cargento",
         "ref": "stable"
       },
-      "description": "Agnostic agent cartography and visualization \u2014 a live local dashboard mapping coding-agent sessions across Claude Code, Codex, Gemini, Antigravity, Copilot, OpenCode, Cursor, Goose, and Droid",
+      "description": "Agnostic agent cartography and visualization — a live local dashboard mapping coding-agent sessions across Claude Code, Codex, Gemini, Antigravity, Copilot, OpenCode, Cursor, Goose, and Droid",
       "version": "0.4.2",
       "category": "monitoring"
     }
