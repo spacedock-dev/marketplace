@@ -12,7 +12,7 @@
         "ref": "main"
       },
       "description": "Turn directories of markdown files into structured workflows operated by AI agents (edge channel — tracks main HEAD)",
-      "version": "0.0.2026062001",
+      "version": "0.0.2026082501",
       "category": "workflow"
     }
   ]
