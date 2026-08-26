@@ -20,10 +20,10 @@
       "source": {
         "source": "url",
         "url": "https://github.com/spacedock-dev/subspace.git",
-        "ref": "v0.14.1"
+        "ref": "v0.15.0"
       },
       "description": "Review one Markdown file in Subspace and return its neutral invocation-bound result.",
-      "version": "0.14.1",
+      "version": "0.15.0",
       "category": "workflow"
     },
     {
