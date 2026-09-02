@@ -47,7 +47,7 @@
         "ref": "main"
       },
       "description": "Test whether changes to CLAUDE.md, AGENTS.md, or skills change agent behavior.",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "category": "testing"
     }
   ]
