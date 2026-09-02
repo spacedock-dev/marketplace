@@ -45,7 +45,14 @@ Also listed in the stable marketplace:
   advances on every release, so the listing does not need repointing per release. The
   plugin lives in a `cargento/` subdirectory rather than at the repo root, so the entry
   uses a `git-subdir` source with `"path": "cargento"`.
+- **`behavior-diff`** — [Behavior Diff](https://github.com/spacedock-dev/behavior-diff)
+  compares agent behavior before and after an instruction-file change. The plugin
+  lives in the repo's `plugin/` subdirectory, so the entry uses a `git-subdir`
+  source with `"path": "plugin"`. It tracks `main` until the repo publishes a
+  release tag or stable branch.
 
 ```
 claude plugin install cargento@spacedock
+claude plugin install behavior-diff@spacedock
+codex plugin add behavior-diff@spacedock
 ```
