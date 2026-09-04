@@ -44,10 +44,10 @@
         "source": "git-subdir",
         "url": "https://github.com/spacedock-dev/behavior-diff.git",
         "path": "plugin",
-        "ref": "main"
+        "ref": "v0.3.3"
       },
       "description": "Test whether changes to CLAUDE.md, AGENTS.md, or skills change agent behavior.",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "category": "testing"
     }
   ]
