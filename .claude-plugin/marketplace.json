@@ -14,6 +14,29 @@
       "description": "Turn directories of markdown files into structured workflows operated by AI agents (edge channel — tracks main HEAD)",
       "version": "0.0.2026082501",
       "category": "workflow"
+    },
+    {
+      "name": "subspace",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/spacedock-dev/subspace.git",
+        "ref": "v0.17.0"
+      },
+      "description": "Review one Markdown file in Subspace and return its neutral invocation-bound result.",
+      "version": "0.17.0",
+      "category": "workflow"
+    },
+    {
+      "name": "compass",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/spacedock-dev/compass.git",
+        "path": "compass",
+        "ref": "stable"
+      },
+      "description": "Agnostic agent cartography and visualization — a live local dashboard mapping coding-agent sessions across Claude Code, Codex, Pi, Gemini, Antigravity, Copilot, OpenCode, Cursor, Goose, and Droid",
+      "version": "2.10.0",
+      "category": "monitoring"
     }
   ]
 }
